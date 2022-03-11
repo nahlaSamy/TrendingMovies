@@ -4,7 +4,7 @@ class Movies extends Component {
     render() {
         return (
             <div>
-                movies
+                Welcome from Movies Pages
             </div>
         );
     }

@@ -16,10 +16,10 @@ class Navbar extends Component {
           <NavLink className="nav-link active" aria-current="page" to="/Home">Home</NavLink>
         </li>
         <li className="nav-item">
-          <NavLink className="nav-link" to="/Movies">Movies</NavLink>
+          <NavLink className="nav-link" to="#">Movies</NavLink>
         </li>
         <li className="nav-item">
-          <NavLink className="nav-link" to="/Tv">Tv</NavLink>
+          <NavLink className="nav-link" to="#">Tv</NavLink>
         </li>
       </ul>
       
